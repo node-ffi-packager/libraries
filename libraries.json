@@ -1,5 +1,10 @@
 [
     {
+        "name": "libusb",
+        "version": "1.0.23",
+        "remote": "conan-center"
+    },
+    {
         "name": "libjpeg",
         "version": "9d",
         "remote": "conan-center"
