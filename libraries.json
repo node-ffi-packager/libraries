@@ -1,0 +1,7 @@
+[
+    {
+        "name": "libjpeg",
+        "version": "9d",
+        "remote": "conan-center"
+    }
+]
