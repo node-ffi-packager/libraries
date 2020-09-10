@@ -1,5 +1,10 @@
 [
     {
+        "name": "libuvc",
+        "version": "0.0.6",
+        "remote": "conan-center"
+    },
+    {
         "name": "libusb",
         "version": "1.0.23",
         "remote": "conan-center"
