@@ -1,5 +1,10 @@
 [
     {
+        "name": "zlib",
+        "version": "1.2.11",
+        "remote": "conan-center"
+    },
+    {
         "name": "libuvc",
         "version": "0.0.6",
         "remote": "conan-center"
